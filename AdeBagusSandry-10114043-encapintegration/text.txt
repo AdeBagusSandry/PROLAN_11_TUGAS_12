@@ -1,0 +1,6 @@
+PENDAPAT SAYA TENTANG KELAS DI ABSTRACK DAN KELAS DI ENCAP
+*Class di absreact 
+	bisa berisi Abstract dan non Abstract tentu nya bisa mendeklarasikan consten dan instance nya , metohod nta bisa/boleh bersifat static dan final,class abstract itu hanya bis mengextend satu abstract class lain
+ 
+*Class di encapsulation
+	Hanya bisa berisi abstract methodnya,hanya bis mendeklarasikan constrant aja,Method tidak bisa bersifat static dan final ,,,,,bisa mengestend interface lainnya dan tidak bisa meng-implement class lain
